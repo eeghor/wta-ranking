@@ -1,0 +1,1309 @@
+crank	name	surname	country	dob
+1	Angelique	Kerber	Germany	18-Jan-1988
+2	Serena	Williams	United states	26-Sep-1981
+3	Agnieszka	Radwanska	Poland	06-Mar-1989
+4	Simona	Halep	Romania	27-Sep-1991
+5	Dominika	Cibulkova	Slovakia	06-May-1989
+6	Karolina	Pliskova	Czech republic	21-Mar-1992
+7	Garbiñe	Muguruza	Spain	08-Oct-1993
+8	Madison	Keys	United states	17-Feb-1995
+9	Svetlana	Kuznetsova	Russia	27-Jun-1985
+10	Johanna	Konta	United kingdom	17-May-1991
+11	Petra	Kvitova	Czech republic	08-Mar-1990
+12	Carla	Suárez navarro	Spain	03-Sep-1988
+13	Victoria	Azarenka	Belarus	31-Jul-1989
+14	Elina	Svitolina	Ukraine	12-Sep-1994
+15	Timea	Bacsinszky	Switzerland	08-Jun-1989
+16	Elena	Vesnina	Russia	01-Aug-1986
+17	Venus	Williams	United states	17-Jun-1980
+18	Roberta	Vinci	Italy	18-Feb-1983
+19	Caroline	Wozniacki	Denmark	11-Jul-1990
+20	Barbora	Strycova	Czech republic	28-Mar-1986
+21	Samantha	Stosur	Australia	30-Mar-1984
+22	Kiki	Bertens	Netherlands	10-Dec-1991
+23	Shuai	Zhang	China	21-Jan-1989
+24	Caroline	Garcia	France	16-Oct-1993
+25	Daria	Gavrilova	Australia	05-Mar-1994
+26	Daria	Kasatkina	Russia	07-May-1997
+27	Anastasia	Pavlyuchenkova	Russia	03-Jul-1991
+28	Timea	Babos	Hungary	10-May-1993
+29	Irina-camelia	Begu	Romania	26-Aug-1990
+30	Ekaterina	Makarova	Russia	07-Jun-1988
+31	Laura	Siegemund	Germany	04-Mar-1988
+32	Monica	Puig	Puerto rico	27-Sep-1993
+33	Yulia	Putintseva	Kazakhstan	07-Jan-1995
+34	Anastasija	Sevastova	Latvia	13-Apr-1990
+35	Sloane	Stephens	United states	20-Mar-1993
+36	Coco	Vandeweghe	United states	06-Dec-1991
+37	Yaroslava	Shvedova	Kazakhstan	12-Sep-1987
+38	Monica	Niculescu	Romania	25-Sep-1987
+39	Alison	Riske	United states	03-Jul-1990
+40	Misaki	Doi	Japan	29-Apr-1991
+41	Alizé	Cornet	France	22-Jan-1990
+42	Kristina	Mladenovic	France	14-May-1993
+43	Belinda	Bencic	Switzerland	10-Mar-1997
+44	Jelena	Ostapenko	Latvia	08-Jun-1997
+45	Christina	Mchale	United states	11-May-1992
+46	Eugenie	Bouchard	Canada	25-Feb-1994
+47	Ana	Konjuh	Croatia	27-Dec-1997
+48	Naomi	Osaka	Japan	16-Oct-1997
+49	Sara	Errani	Italy	29-Apr-1987
+50	Johanna	Larsson	Sweden	17-Aug-1988
+51	Annika	Beck	Germany	16-Feb-1994
+52	Katerina	Siniakova	Czech republic	10-May-1996
+53	Julia	Goerges	Germany	02-Nov-1988
+54	Jelena	Jankovic	Serbia	28-Feb-1985
+55	Andrea	Petkovic	Germany	09-Sep-1987
+56	Viktorija	Golubic	Switzerland	16-Oct-1992
+57	Lesia	Tsurenko	Ukraine	30-May-1989
+58	Yanina	Wickmayer	Belgium	20-Oct-1989
+59	Shelby	Rogers	United states	13-Oct-1992
+60	Kristyna	Pliskova	Czech republic	21-Mar-1992
+61	Lauren	Davis	United states	09-Oct-1993
+62	Lucie	Safarova	Czech republic	04-Feb-1987
+63	Ana	Ivanovic	Serbia	06-Nov-1987
+64	Tsvetana	Pironkova	Bulgaria	13-Sep-1987
+65	Kirsten	Flipkens	Belgium	10-Jan-1986
+66	Lara	Arruabarrena	Spain	20-Mar-1992
+67	Anna-lena	Friedsam	Germany	01-Feb-1994
+68	Louisa	Chirico	United states	16-May-1996
+69	Kateryna	Bondarenko	Ukraine	08-Aug-1986
+70	Pauline	Parmentier	France	31-Jan-1986
+71	Danka	Kovinic	Montenegro	18-Nov-1994
+72	Qiang	Wang	China	14-Jan-1992
+73	Madison	Brengle	United states	03-Apr-1990
+74	Oceane	Dodin	France	24-Oct-1996
+75	Catherine	Bellis	United states	08-Apr-1999
+76	Heather	Watson	United kingdom	19-May-1992
+77	Cagla	Buyukakcay	Turkey	28-Sep-1989
+78	Kurumi	Nara	Japan	30-Dec-1991
+79	Vania	King	United states	03-Feb-1989
+80	Sorana	Cirstea	Romania	07-Apr-1990
+81	Mirjana	Lucic-baroni	Croatia	09-Mar-1982
+82	Kristina	Kucova	Slovakia	23-May-1990
+83	Camila	Giorgi	Italy	30-Dec-1991
+84	Shuai	Peng	China	08-Jan-1986
+85	Saisai	Zheng	China	05-Feb-1994
+86	Evgeniya	Rodina	Russia	04-Feb-1989
+87	Carina	Witthoeft	Germany	16-Feb-1995
+88	Nicole	Gibbs	United states	03-Mar-1993
+89	Varvara	Lepchenko	United states	21-May-1986
+90	Naomi	Broady	United kingdom	28-Feb-1990
+91	Denisa	Allertova	Czech republic	07-Mar-1993
+92	Sabine	Lisicki	Germany	22-Sep-1989
+93	Irina	Khromacheva	Russia	12-May-1995
+94	Nao	Hibino	Japan	28-Nov-1994
+95	Magda	Linette	Poland	12-Feb-1992
+96	Risa	Ozaki	Japan	10-Apr-1994
+97	Maria	Sakkari	Greece	25-Jul-1995
+98	Irina	Falconi	United states	04-May-1990
+99	Jana	Cepelova	Slovakia	29-May-1993
+100	Donna	Vekic	Croatia	28-Jun-1996
+101	Kateryna	Kozlova	Ukraine	20-Feb-1994
+102	Francesca	Schiavone	Italy	23-Jun-1980
+103	Ying-ying	Duan	China	03-Jul-1989
+104	Mandy	Minella	Luxembourg	22-Nov-1985
+105	Marina	Erakovic	New zealand	06-Mar-1988
+106	Sara	Sorribes tormo	Spain	08-Oct-1996
+107	Patricia maria	Tig	Romania	27-Jul-1994
+108	Su-wei	Hsieh	Chinese taipei	04-Jan-1986
+109	Ekaterina	Alexandrova	Russia	15-Nov-1994
+110	Mariana	Duque-mariño	Colombia	12-Aug-1989
+111	Xinyun	Han	China	30-May-1990
+112	Anett	Kontaveit	Estonia	24-Dec-1995
+113	Samantha	Crawford	United states	18-Feb-1995
+114	Stefanie	Voegele	Switzerland	10-Mar-1990
+115	Tatjana	Maria	Germany	08-Aug-1987
+116	Yafan	Wang	China	30-Apr-1994
+117	Margarita	Gasparyan	Russia	01-Sep-1994
+118	Jennifer	Brady	United states	12-Apr-1995
+119	Julia	Boserup	United states	09-Sep-1991
+120	Rebecca	Sramkova	Slovakia	19-Oct-1996
+121	Alison	Van uytvanck	Belgium	26-Mar-1994
+122	Maryna	Zanevska	Belgium	24-Aug-1993
+123	Aliaksandra	Sasnovich	Belarus	22-Mar-1994
+124	Lin	Zhu	China	28-Jan-1994
+125	Elise	Mertens	Belgium	17-Nov-1995
+126	Tamira	Paszek	Austria	06-Dec-1990
+127	Grace	Min	United states	06-May-1994
+128	Sílvia	Soler-espinosa	Spain	19-Nov-1987
+129	Veronica	Cepede royg	Paraguay	21-Jan-1992
+130	Ana	Bogdan	Romania	25-Nov-1992
+131	Kai-chen	Chang	Chinese taipei	13-Jan-1991
+132	Richel	Hogenkamp	Netherlands	16-Apr-1992
+133	Kai-lin	Zhang	China	28-Jan-1990
+134	Taylor	Townsend	United states	16-Apr-1996
+135	Aryna	Sabalenka	Belarus	05-May-1998
+136	Sachia	Vickery	United states	11-May-1995
+137	Isabella	Shinikova	Bulgaria	25-Oct-1991
+138	Cindy	Burger	Netherlands	25-Nov-1992
+139	Elitsa	Kostova	Bulgaria	10-Apr-1990
+140	Alla	Kudryavtseva	Russia	03-Nov-1987
+141	Polona	Hercog	Slovenia	20-Jan-1991
+142	Nina	Stojanovic	Serbia	30-Jul-1996
+143	Su jeong	Jang	South korea	13-Mar-1995
+144	Rebecca	Peterson	Sweden	06-Aug-1995
+145	Karin	Knapp	Italy	28-Jun-1987
+146	Fangzhou	Liu	China	12-Dec-1995
+147	Aleksandra	Krunic	Serbia	15-Mar-1993
+148	Natalia	Vikhlyantseva	Russia	16-Feb-1997
+149	Zarina	Diyas	Kazakhstan	18-Oct-1993
+150	Elizaveta	Kulichkova	Russia	12-Apr-1996
+151	Barbara	Haas	Austria	19-Mar-1996
+152	Misa	Eguchi	Japan	18-Apr-1992
+153	Sabina	Sharipova	Uzbekistan	04-Sep-1994
+154	Magdalena	Rybarikova	Slovakia	04-Oct-1988
+155	Viktoriya	Tomova	Bulgaria	25-Feb-1995
+156	Dalila	Jakupovic	Slovenia	24-Mar-1991
+157	Ivana	Jorovic	Serbia	03-May-1997
+158	Tamara	Korpatsch	Germany	12-May-1995
+159	Ipek	Soylu	Turkey	15-Apr-1996
+160	Tara	Moore	United kingdom	06-Aug-1992
+161	Tereza	Martincova	Czech republic	24-Oct-1994
+162	Anastasia	Pivovarova	Russia	16-Jun-1990
+163	Dalma	Galfi	Hungary	13-Aug-1998
+164	Lucie	Hradecka	Czech republic	21-May-1985
+165	Jessica	Pegula	United states	24-Feb-1994
+166	Paula cristina	Goncalves	Brazil	11-Aug-1990
+167	Virginie	Razzano	France	12-May-1983
+168	Olga	Govortsova	Belarus	23-Aug-1988
+169	Barbora	Stefkova	Czech republic	04-Apr-1995
+170	Nigina	Abduraimova	Uzbekistan	07-Jul-1994
+171	Tereza	Smitkova	Czech republic	10-Oct-1994
+172	Beatriz	Haddad maia	Brazil	30-May-1996
+173	Francoise	Abanda	Canada	05-Feb-1997
+174	Arantxa	Rus	Netherlands	13-Dec-1990
+175	Montserrat	Gonzalez	Paraguay	01-Jul-1994
+176	Bethanie	Mattek-sands	United states	23-Mar-1985
+177	Luksika	Kumkhum	Thailand	21-Jul-1993
+178	Antonia	Lottner	Germany	13-Aug-1996
+179	Na-lae	Han	South korea	06-Jul-1992
+180	Susanne	Celik	Sweden	06-Dec-1994
+181	Conny	Perrin	Switzerland	25-Dec-1990
+182	Tadeja	Majeric	Slovenia	31-Aug-1990
+183	Mona	Barthel	Germany	11-Jul-1990
+184	Amra	Sadikovic	Switzerland	06-May-1989
+185	Miyu	Kato	Japan	21-Nov-1994
+186	Julia	Glushko	Israel	01-Jan-1990
+187	Anna	Kalinskaya	Russia	02-Dec-1998
+188	Myrtille	Georges	France	21-Dec-1990
+189	Victoria	Kamenskaya	Russia	26-Nov-1991
+190	Arina	Rodionova	Australia	15-Dec-1989
+191	Jamie	Loeb	United states	08-Mar-1995
+192	Asia	Muhammad	United states	04-Apr-1991
+193	Catalina	Pella	Argentina	31-Jan-1993
+194	Nadia	Podoroska	Argentina	10-Feb-1997
+195	Ons	Jabeur	Tunisia	28-Aug-1994
+196	Kayla	Day	United states	28-Sep-1999
+197	Ksenia	Lykina	Russia	19-Jun-1990
+198	Anna	Tatishvili	United states	03-Feb-1990
+199	Tamara	Zidansek	Slovenia	26-Dec-1997
+200	Hiroko	Kuwata	Japan	18-Dec-1990
+201	Anna	Blinkova	Russia	10-Sep-1998
+202	Quirine	Lemoine	Netherlands	25-Dec-1991
+203	Anastasiya	Komardina	Russia	08-Jul-1997
+204	Riko	Sawayanagi	Japan	25-Oct-1994
+205	Lina	Gjorcheska	Macedonia	03-Aug-1994
+206	Teliana	Pereira	Brazil	20-Jul-1988
+207	Amandine	Hesse	France	16-Jan-1993
+208	Veronika	Kudermetova	Russia	24-Apr-1997
+209	Lesley	Kerkhove	Netherlands	04-Nov-1991
+210	Jil	Teichmann	Switzerland	15-Jul-1997
+211	Sesil	Karatantcheva	Bulgaria	08-Aug-1989
+212	Andreea	Mitu	Romania	22-Sep-1991
+213	Sofia	Kenin	United states	14-Nov-1998
+214	Alizé	Lim	France	13-Jul-1990
+215	Jasmine	Paolini	Italy	04-Jan-1996
+216	Valentini	Grammatikopoulou	Greece	09-Feb-1997
+217	Lizette	Cabrera	Australia	19-Dec-1997
+218	An-sophie	Mestach	Belgium	07-Mar-1994
+219	Eri	Hozumi	Japan	17-Feb-1994
+220	Lourdes	Domínguez lino	Spain	31-Mar-1981
+221	Varvara	Flink	Russia	13-Dec-1996
+222	Laura	Robson	United kingdom	21-Jan-1994
+223	Shuko	Aoyama	Japan	19-Dec-1987
+224	Jesika	Maleckova	Czech republic	16-Aug-1994
+225	Viktoria	Kuzmova	Slovakia	11-May-1998
+226	Mayo	Hibi	Japan	03-Apr-1996
+227	Anna karolina	Schmiedlova	Slovakia	13-Sep-1994
+228	Daniela	Hantuchova	Slovakia	23-Apr-1983
+229	Reka-luca	Jani	Hungary	31-Jul-1991
+230	Ysaline	Bonaventure	Belgium	29-Aug-1994
+231	Kristie	Ahn	United states	15-Jun-1992
+232	Michelle	Larcher de brito	Portugal	29-Jan-1993
+233	Sofia	Shapatava	Georgia	12-Jan-1989
+234	Alexandra	Panova	Russia	02-Mar-1989
+235	Valeriya	Solovyeva	Russia	03-Nov-1992
+236	Martina	Trevisan	Italy	03-Nov-1993
+237	Daniela	Seguel	Chile	15-Nov-1992
+238	Karolina	Muchova	Czech republic	21-Aug-1996
+239	Jennifer	Elie	United states	22-Sep-1986
+240	Robin	Anderson	United states	12-Apr-1993
+241	Fiona	Ferro	France	12-Mar-1997
+242	Katarzyna	Piter	Poland	16-Feb-1991
+243	Aleksandrina	Naydenova	Bulgaria	29-Feb-1992
+244	Akiko	Omae	Japan	29-Jan-1993
+245	Irina	Bara	Romania	18-Mar-1995
+246	Lauren	Albanese	United states	01-Oct-1989
+247	Marina	Melnikova	Russia	05-Feb-1989
+248	Sherazad	Reix	France	03-Apr-1989
+249	Paula	Kania	Poland	06-Nov-1992
+250	Chang	Liu	China	01-Aug-1990
+251	Tessah	Andrianjafitrimo	France	11-Oct-1998
+252	Shiho	Akita	Japan	18-Jan-1990
+253	Barbora	Krejcikova	Czech republic	18-Dec-1995
+254	Deniz	Khazaniuk	Israel	24-Oct-1994
+255	Elena-gabriela	Ruse	Romania	06-Nov-1997
+256	Junri	Namigata	Japan	05-Jul-1982
+257	Marie	Bouzkova	Czech republic	21-Jul-1998
+258	Cristina	Dinu	Romania	18-Jan-1993
+259	Melanie	Oudin	United states	23-Sep-1991
+260	Kathinka	Von deichmann	Liechtenstein	16-May-1994
+261	Urszula	Radwanska	Poland	07-Dec-1990
+262	Jing-jing	Lu	China	05-May-1989
+263	Jia-jing	Lu	China	18-Nov-1989
+264	Danielle	Collins	United states	13-Dec-1993
+265	Polina	Leykina	Russia	20-Sep-1994
+266	Jacqueline	Cako	United states	30-Aug-1991
+267	Jovana	Jaksic	Serbia	30-Sep-1993
+268	Petra	Martic	Croatia	19-Jan-1991
+269	Anne	Schaefer	Germany	01-Mar-1987
+270	Kyoka	Okamura	Japan	06-Oct-1995
+271	Ankita	Raina	India	11-Jan-1993
+272	Georgina	Garcia perez	Spain	13-May-1992
+273	Peangtarn	Plipuech	Thailand	15-Nov-1992
+274	Michaella	Krajicek	Netherlands	09-Jan-1989
+275	Valeriya	Strakhova	Ukraine	09-Jun-1995
+276	Alexandra	Cadantu	Romania	03-May-1990
+277	Ashleigh	Barty	Australia	24-Apr-1996
+278	Gabriela	Pantuckova	Czech republic	10-Feb-1995
+279	Olivia	Rogowska	Australia	07-Jun-1991
+280	Alexandra	Dulgheru	Romania	30-May-1989
+281	Shilin	Xu	China	10-Jan-1998
+282	Jessica	Pieri	Italy	24-Apr-1997
+283	Fanny	Stollar	Hungary	12-Nov-1998
+284	Victoria	Kan	Russia	03-Aug-1995
+285	Laura	Schaeder	Germany	25-Apr-1993
+286	Varatchaya	Wongteanchai	Thailand	07-Sep-1989
+287	Andrea	Hlavackova	Czech republic	10-Aug-1986
+288	Zhaoxuan	Yang	China	11-Feb-1995
+289	Amanda	Carreras	United kingdom	16-May-1990
+290	Laura	Pous-tio	Spain	01-Oct-1984
+291	Nicha	Lertpitaksinchai	Thailand	14-Aug-1991
+292	Sofya	Zhuk	Russia	01-Dec-1999
+293	Magdalena	Frech	Poland	15-Dec-1997
+294	Storm	Sanders	Australia	11-Aug-1994
+295	Anastasia	Grymalska	Italy	12-Jul-1990
+296	Jana	Fett	Croatia	02-Nov-1996
+297	Ekaterine	Gorgodze	Georgia	03-Dec-1991
+298	Patty	Schnyder	Switzerland	14-Dec-1978
+299	Bianca	Andreescu	Canada	16-Jun-2000
+300	Olga	Saez larra	Spain	18-Sep-1994
+301	Yuxuan	Zhang	China	19-Aug-1994
+302	Renata	Zarazua	Mexico	30-Sep-1997
+303	Indy	De vroome	Netherlands	21-May-1996
+304	Aleksandra	Wozniak	Canada	07-Sep-1987
+305	Kaia	Kanepi	Estonia	10-Jun-1985
+306	Raveena	Kingsley	United states	23-Jul-1998
+307	Tereza	Mrdeza	Croatia	14-Nov-1990
+308	Anna	Zaja	Germany	25-Jun-1991
+309	Chloe	Paquet	France	01-Jul-1994
+310	Nicoleta	Dascalu	Romania	19-Dec-1995
+311	Olga	Savchuk	Ukraine	20-Sep-1987
+312	Julia	Grabher	Austria	02-Jul-1996
+313	Xinyu	Gao	China	21-Nov-1997
+314	Rebeka	Masarova	Switzerland	06-Aug-1999
+315	Paula	Badosa gibert	Spain	15-Nov-1997
+316	Katy	Dunne	United kingdom	16-Feb-1995
+317	Danielle	Lao	United states	28-May-1991
+318	Olga	Ianchuk	Ukraine	29-Mar-1995
+319	Elizabeth	Halbauer	United states	10-Jul-1997
+320	Ya-hsuan	Lee	Chinese taipei	20-Jul-1995
+321	Valentyna	Ivakhnenko	Russia	27-Jun-1993
+322	Bernarda	Pera	United states	03-Dec-1994
+323	Caitlin	Whoriskey	United states	19-Feb-1988
+324	Diana	Marcinkevica	Latvia	03-Aug-1992
+325	Usue maitane	Arconada	United states	28-Oct-1998
+326	Olga	Doroshina	Russia	24-Jun-1994
+327	Georgia	Brescia	Italy	08-Feb-1996
+328	Fang ying	Xun	China	14-Jan-1995
+329	Vera	Lapko	Belarus	29-Sep-1998
+330	Tena	Lukas	Croatia	10-May-1995
+331	Francesca	Di lorenzo	United states	22-Jul-1997
+332	Ran	Tian	China	08-Jan-1994
+333	Freya	Christie	United kingdom	08-Nov-1997
+334	Camilla	Rosatello	Italy	28-May-1995
+335	Julia	Terziyska	Bulgaria	05-Mar-1996
+336	Harriet	Dart	United kingdom	28-Jul-1996
+337	Michaela	Honcova	Slovakia	22-Dec-1992
+338	Katharina	Hobgarski	Germany	18-Jun-1997
+339	Elizaveta	Ianchuk	Ukraine	08-Mar-1993
+340	Dayana	Yastremska	Ukraine	15-May-2000
+341	Polina	Monova	Russia	06-Apr-1993
+342	Chanel	Simmonds	South africa	10-Aug-1992
+343	Claire	Feuerstein	France	28-Feb-1986
+344	Basak	Eraydin	Turkey	21-Jun-1994
+345	Maria	Sanchez	United states	26-Nov-1989
+346	Caroline	Dolehide	United states	05-Sep-1998
+347	Greet	Minnen	Belgium	14-Aug-1997
+348	Elyne	Boeykens	Belgium	03-Apr-1991
+349	Anna	Morgina	Russia	21-Aug-1991
+350	Kamila	Kerimbayeva	Kazakhstan	18-Jun-1995
+351	Jaqueline	Cristian	Romania	05-Jun-1998
+352	Galina	Voskoboeva	Kazakhstan	18-Dec-1984
+353	Yuuki	Tanaka	Japan	07-Mar-1990
+354	Victoria	Rodriguez	Mexico	22-Apr-1995
+355	Martina	Di giuseppe	Italy	10-Feb-1991
+356	Ching-wen	Hsu	Chinese taipei	19-Aug-1996
+357	Melanie	Stokke	Norway	01-Oct-1996
+358	Olga	Fridman	Ukraine	30-Sep-1998
+359	Yifan	Xu	China	08-Aug-1988
+360	Cristiana	Ferrando	Italy	10-Aug-1995
+361	Ayano	Shimizu	Japan	11-Apr-1998
+362	Ayla	Aksu	Turkey	15-Jul-1996
+363	Giulia	Gatto-monticone	Italy	18-Nov-1987
+364	Katie	Boulter	United kingdom	01-Aug-1996
+365	Lyudmyla	Kichenok	Ukraine	20-Jul-1992
+366	Ying	Zhang	China	15-Apr-1996
+367	Elixane	Lechemia	France	03-Sep-1991
+368	Natela	Dzalamidze	Russia	27-Feb-1993
+369	Stéphanie	Foretz	France	03-May-1981
+370	Julia	Wachaczyk	Germany	13-Apr-1994
+371	Zuzana	Zlochova	Slovakia	24-Jan-1990
+372	Erika	Sema	Japan	24-Nov-1988
+373	Anastasiya	Vasylyeva	Ukraine	18-Jan-1992
+374	Claudia	Giovine	Italy	18-Jul-1990
+375	Marta	Paigina	Russia	03-Mar-1999
+376	Fernanda	Brito	Chile	14-Feb-1992
+377	Hanyu	Guo	China	18-May-1998
+378	Gabriella	Taylor	United kingdom	07-Mar-1998
+379	Martina	Caregaro	Italy	19-May-1992
+380	Makoto	Ninomiya	Japan	28-May-1994
+381	Vivien	Juhaszova	Slovakia	17-Jul-1993
+382	Agnes	Bukta	Hungary	29-Oct-1993
+383	Harmony	Tan	France	11-Sep-1997
+384	Katie	Swan	United kingdom	24-Mar-1999
+385	Margot	Yerolymos	France	19-Apr-1997
+386	Akgul	Amanmuradova	Uzbekistan	23-Jun-1984
+387	Anastasia	Gasanova	Russia	15-May-1999
+388	Chiara	Scholl	United states	05-Jul-1992
+389	Destanee	Aiava	Australia	10-May-2000
+390	Vanda	Lukacs	Hungary	08-Dec-1992
+391	Chantal	Skamlova	Slovakia	04-Sep-1993
+392	Vesna	Dolonc	Serbia	21-Jul-1989
+393	Alyona	Sotnikova	Ukraine	05-May-1992
+394	Katerina	Stewart	United states	17-Jul-1997
+395	Pemra	Ozgen	Turkey	08-May-1986
+396	Miharu	Imanishi	Japan	20-May-1992
+397	Romina	Oprandi	Switzerland	29-Mar-1986
+398	Manon	Arcangioli	France	28-Aug-1994
+399	Maria	Marfutina	Russia	06-Jun-1997
+400	Klara	Koukalova	Czech republic	24-Feb-1982
+401	Jessica	Moore	Australia	16-Aug-1990
+402	Marie	Benoit	Belgium	16-Mar-1995
+403	Polina	Vinogradova	Russia	27-Nov-1993
+404	Xiaodi	You	China	12-May-1996
+405	Irina	Ramialison	France	09-Jun-1991
+406	Chieh-yu	Hsu	Chinese taipei	14-Jan-1992
+407	Angelica	Moratelli	Italy	17-Aug-1994
+408	Lou	Brouleau	France	19-May-1995
+409	Paula	Ormaechea	Argentina	28-Sep-1992
+410	Alison	Bai	Australia	18-Jan-1990
+411	Katarzyna	Kawa	Poland	17-Nov-1992
+412	Alexandra	Perper	Moldova	29-Jul-1991
+413	Karen	Barritza	Denmark	03-Jul-1992
+414	Ulrikke	Eikeri	Norway	16-Dec-1992
+415	Ronit	Yurovsky	United states	03-Dec-1993
+416	Lenka	Jurikova	Slovakia	11-Aug-1990
+417	Ana	Veselinovic	Montenegro	22-Feb-1988
+418	Noppawan	Lertcheewakarn	Thailand	18-Nov-1991
+419	Nastassja	Burnett	Italy	20-Feb-1992
+420	Laura	Pigossi	Brazil	02-Aug-1994
+421	Mihaela	Buzarnescu	Romania	04-May-1988
+422	Sandra	Samir	Egypt	04-Nov-1997
+423	María-teresa	Torró-flor	Spain	02-May-1992
+424	Marketa	Vondrousova	Czech republic	28-Jun-1999
+425	Jaimee	Fourlis	Australia	17-Sep-1999
+426	Petra	Krejsova	Czech republic	30-Jun-1990
+427	Mana	Ayukawa	Japan	14-Sep-1994
+428	Yana	Sizikova	Russia	12-Nov-1994
+429	Sunam	Jeong	South korea	06-Jun-1996
+430	Valeria	Savinykh	Russia	20-Feb-1991
+431	Stephanie	Vogt	Liechtenstein	15-Feb-1990
+432	Dejana	Radanovic	Serbia	14-May-1996
+433	Pia	Konig	Austria	14-May-1993
+434	Olesya	Pervushina	Russia	29-Apr-2000
+435	Tess	Sugnaux	Switzerland	03-Mar-1995
+436	Kimberley	Zimmermann	Belgium	09-Nov-1995
+437	Vitalia	Diatchenko	Russia	02-Aug-1990
+438	Tereza	Mihalikova	Slovakia	02-Jun-1998
+439	Sanaz	Marand	United states	21-Jun-1988
+440	Ayaka	Okuno	Japan	21-Jun-1995
+441	Ioana loredana	Rosca	Romania	20-Sep-1996
+442	Anastasia	Vdovenco	Moldova	20-Apr-1994
+443	Lisa	Sabino	Switzerland	26-Jul-1986
+444	Gabriela	Dabrowski	Canada	01-Apr-1992
+445	Xuliu	Sun	China	07-Mar-1994
+446	Na-ri	Kim	South korea	04-Apr-1990
+447	Fatma	Al nabhani	Oman	20-May-1991
+448	Abigail	Tere-apisah	Papua new guinea	13-Jul-1992
+449	Bunyawi	Thamchaiwat	Thailand	29-Jul-1998
+450	Ji-hee	Choi	South korea	10-Feb-1995
+451	Dea	Herdzelas	Bosnia and herzegovina	07-Nov-1996
+452	Naiktha	Bains	Australia	17-Dec-1997
+453	Melis	Sezer	Turkey	02-Jun-1993
+454	Anna	Bondar	Hungary	27-May-1997
+455	Tammi	Patterson	Australia	03-Jan-1990
+456	Alena	Tarasova	Russia	07-Dec-1994
+457	Jessika	Ponchet	France	26-Sep-1996
+458	Jiaqi	Kang	China	19-Jul-1997
+459	Anastasia	Frolova	Russia	21-Jun-1994
+460	Corinna	Dentoni	Italy	30-Jul-1989
+461	Vlada	Ekshibarova	Israel	14-Mar-1989
+462	Magdalena	Pantuckova	Czech republic	28-Jan-1999
+463	Ana	Vrljic	Croatia	01-Aug-1984
+464	Stefanie	Tan	Singapore	16-Sep-1992
+465	Ioana	Pietroiu	Romania	17-Feb-1998
+466	Victoria	Bosio	Argentina	03-Oct-1994
+467	Pei-chi	Lee	Chinese taipei	16-Oct-1994
+468	Alice	Matteucci	Italy	29-Sep-1995
+469	Alberta	Brianti	Italy	05-Apr-1980
+470	Andrea	Gamiz	Venezuela	31-Oct-1992
+471	Ganna	Poznikhirenko	Ukraine	08-Apr-1994
+472	Doroteja	Eric	Serbia	01-Aug-1992
+473	Oleksandra	Korashvili	Ukraine	01-Mar-1996
+474	Ana sofia	Sánchez	Mexico	13-Apr-1994
+475	Jiaxi	Lu	China	03-Mar-1997
+476	Oana georgeta	Simion	Romania	08-Mar-1996
+477	Caroline	Romeo	France	16-Jul-1994
+478	Sofiya	Kovalets	Ukraine	10-Jul-1994
+479	Bibiane	Schoofs	Netherlands	13-May-1988
+480	Raluca	Serban	Romania	17-Jun-1997
+481	Daiana	Negreanu	Romania	21-Jun-1988
+482	Anastasia	Pribylova	Russia	12-Feb-1996
+483	Olivia	Tjandramulia	Australia	11-May-1997
+484	Julia	Elbaba	United states	13-Jun-1994
+485	Anastasiya	Shoshyna	Ukraine	30-Nov-1997
+486	Nicole	Coopersmith	United states	08-May-1999
+487	Deborah	Chiesa	Italy	13-Jun-1996
+488	Lisa	Whybourn	United kingdom	11-May-1991
+489	Sara	Tomic	Australia	05-Feb-1998
+490	Nadiia	Kichenok	Ukraine	20-Jul-1992
+491	Tori	Kinard	United states	24-Nov-1987
+492	Ao	Gai	China	11-Jan-1995
+493	Sviatlana	Pirazhenka	Belarus	12-Sep-1992
+494	Jacqueline	Cabaj awad	Sweden	28-Jan-1996
+495	Gozal	Ainitdinova	Kazakhstan	22-Aug-1998
+496	Kristina	Schmiedlova	Slovakia	06-Aug-1997
+497	Cristina	Ene	Romania	18-Dec-1995
+498	Carol	Zhao	Canada	20-Jun-1995
+499	Shanshan	Guo	China	09-Aug-1996
+500	Theo	Gravouil	France	30-Jul-1998
+501	Deborah	Kerfs	Belgium	10-Mar-1995
+502	Sara	Cakarevic	France	12-Mar-1997
+503	Josephine	Boualem	France	05-Aug-1993
+504	Yan	Wang	China	01-Jan-1996
+505	Isabelle	Wallace	Australia	07-Sep-1996
+506	Chayenne	Ewijk	Netherlands	17-Aug-1988
+507	Helene	Scholsen	Belgium	09-Jan-1996
+508	Hanna	Chang	United states	25-Feb-1998
+509	Zhanlan	Wei	China	05-Jan-1998
+510	Vivian	Heisen	Germany	27-Dec-1993
+511	Manca	Pislak	Slovenia	09-Sep-1997
+512	Alice	Balducci	Italy	11-Sep-1986
+513	Estelle	Cascino	France	13-Mar-1996
+514	Mariam	Bolkvadze	Georgia	01-Jan-1998
+515	Kimberly	Birrell	Australia	29-Apr-1998
+516	Priscilla	Hon	Australia	10-May-1998
+517	Gabriela	Ce	Brazil	03-Mar-1993
+518	Mizuno	Kijima	Japan	21-Nov-1995
+519	Jade	Suvrijn	France	27-Apr-1995
+520	Carolina	Alves	Brazil	23-Apr-1996
+521	Kamonwan	Buayam	Thailand	15-Feb-1996
+522	Irene	Burillo escorihuela	Spain	23-Jul-1997
+523	Nicole	Frenkel	United states	29-Apr-1998
+524	Sandra	Zaniewska	Poland	03-Jan-1992
+525	Chihiro	Muramatsu	Japan	22-May-1998
+526	Ekaterina	Yashina	Russia	06-Aug-1993
+527	Alexandra	Sanford	United states	05-Jan-1999
+528	Emina	Bektas	United states	30-Mar-1993
+529	Melanie	Klaffner	Austria	22-May-1990
+530	Miriam	Kolodziejova	Czech republic	11-Apr-1997
+531	Julieta	Estable	Argentina	15-Jul-1997
+532	Sabrina	Santamaria	United states	24-Feb-1993
+533	Sofia	Kvatsabaia	Georgia	18-Jul-1988
+534	Miyabi	Inoue	Japan	19-Nov-1991
+535	Eleni	Kordolaimi	Greece	07-Mar-1993
+536	Margarita	Lazareva	Russia	10-Oct-1990
+537	Iryna	Shymanovich	Belarus	30-Jun-1997
+538	Silvia	Njiric	Croatia	09-Jul-1993
+539	Nastja	Kolar	Slovenia	15-Jul-1994
+540	Anna	Remondina	Italy	01-Jun-1989
+541	Guadalupe	Perez rojas	Argentina	19-Aug-1994
+542	Maria	Herazo gonzalez	Colombia	22-Mar-1997
+543	Audrey	Albie	France	24-Oct-1994
+544	Veronika	Kapshay	Ukraine	02-Dec-1986
+545	Snehadevi	Reddy	India	13-Feb-1997
+546	Ilona	Kremen	Belarus	18-Jan-1994
+547	Ashley	Kratzer	United states	08-Feb-1999
+548	Ana bianca	Mihaila	Romania	05-Oct-1996
+549	Maddison	Inglis	Australia	14-Jan-1998
+550	So-ra	Lee	South korea	22-Jul-1994
+551	Victoria	Larriere	France	02-May-1991
+552	Katherine	Sebov	Canada	05-Jan-1999
+553	Camilla	Scala	Italy	09-Jul-1994
+554	Valeria	Bhunu	Zimbabwe	03-Apr-1995
+555	Nina	Alibalic	Australia	10-Dec-1998
+556	Sarah-rebecca	Sekulic	Germany	03-Jul-1992
+557	Natalija	Kostic	Serbia	25-Jul-1994
+558	Ines	Murta	Portugal	31-May-1997
+559	Despina	Papamichail	Greece	09-Feb-1993
+560	Katharina	Lehnert	Philippines	18-Feb-1994
+561	Seung-yeon	Hong	South korea	17-Apr-1992
+562	Hao chen	Tang	China	21-Feb-1994
+563	Jessica	Wacnik	United states	28-Apr-1993
+564	Haruna	Arakawa	Japan	27-Oct-1999
+565	Risa	Ushijima	Japan	10-May-1996
+566	Brenda	Njuki	Sweden	17-Feb-1994
+567	Dia	Evtimova	Bulgaria	30-Apr-1987
+568	Yuliya	Beygelzimer	Ukraine	20-Oct-1983
+569	Anastasia	Zarytska	Ukraine	08-Jan-1998
+570	Irina	Fetecau	Romania	17-Apr-1996
+571	Alice	Bacquie	France	23-Jul-1995
+572	Britt	Geukens	Belgium	23-Feb-1996
+573	Sung-hee	Han	South korea	13-Nov-1990
+574	Emma	Laine	Finland	26-Mar-1986
+575	Berfu	Cengiz	Turkey	18-Oct-1999
+576	Ema	Burgic bucko	Bosnia and herzegovina	22-Aug-1992
+577	Dhruthi	Tatachar venugopal	India	09-Jan-1997
+578	Klaartje	Liebens	Belgium	11-Jan-1995
+579	Marcela	Zacarias	Mexico	26-Mar-1994
+580	Miriam	Bulgaru	Romania	08-Oct-1998
+581	Samantha	Murray	United kingdom	09-Oct-1987
+582	Karman	Thandi	India	16-Jun-1998
+583	Cristina	Bucsa	Spain	01-Jan-1998
+584	Riya	Bhatia	India	24-Sep-1997
+585	Victoria	Muntean	France	23-Jan-1997
+586	Elena-teodora	Cadar	Romania	24-Feb-1994
+587	Nathaly	Kurata	Brazil	10-Feb-1993
+588	Laura ioana	Andrei	Romania	31-May-1988
+589	Ylona-georgiana	Ghioroaie	Romania	28-Mar-1998
+590	Katarina	Zavatska	Ukraine	05-Feb-2000
+591	Karin	Kennel	Switzerland	05-Jul-1995
+592	Michika	Ozeki	Japan	17-Mar-1992
+593	Di	Zhao	China	05-Jan-1993
+594	Petra	Cetkovska	Czech republic	08-Feb-1985
+595	Fanny	Ostlund	Sweden	05-May-1997
+596	Bianca	Turati	Italy	17-Jun-1997
+597	Aleksandra	Pospelova	Russia	22-Apr-1998
+598	Miki	Miyamura	Japan	04-Nov-1985
+599	Dana	Kremer	Germany	01-Sep-1997
+600	Abbie	Myers	Australia	18-Jul-1994
+601	Katharina	Gerlach	Germany	19-Feb-1998
+602	Momoko	Kobori	Japan	22-Aug-1998
+603	Ylena	In-albon	Switzerland	06-Mar-1999
+604	Chiara	Grimm	Switzerland	28-Jan-1997
+605	Alona	Fomina	Ukraine	05-Jul-1989
+606	Julia	Stamatova	Bulgaria	04-Jun-1993
+607	Ola	Abou zekry	Egypt	20-Jun-1987
+608	Andrea	Ka	Cambodia	26-Apr-1992
+609	Bianka	Bekefi	Hungary	18-Mar-1997
+610	Martina	Colmegna	Italy	10-Dec-1996
+611	Kanae	Hisami	Japan	28-Jan-1987
+612	Elena	Rybakina	Russia	17-Jun-1999
+613	Barbara	Gatica	Chile	16-Aug-1996
+614	Xiaoxi	Zhao	China	27-Dec-2000
+615	Marina	Kachar	Serbia	15-Jul-1992
+616	Alexandra	Stevenson	United states	15-Dec-1980
+617	Mari	Osaka	Japan	03-Apr-1996
+618	Vendula	Zovincova	Czech republic	15-Apr-1997
+619	Prerna	Bhambri	India	12-Sep-1992
+620	Nina	Potocnik	Slovenia	12-Jan-1997
+621	Tayisiya	Morderger	Germany	07-Mar-1997
+622	Jarmila	Wolfe	Australia	26-Apr-1987
+623	Marine	Partaud	France	09-Nov-1994
+624	Mira	Antonitsch	Austria	16-Dec-1998
+625	Cornelia	Lister	Sweden	26-May-1994
+626	Jennifer	Zerbone	France	14-Jun-1995
+627	Kateryna	Sliusar	Ukraine	29-Nov-1997
+628	Lisa	Matviyenko	Germany	06-Oct-1997
+629	Barbara	Kotelesova	Slovakia	12-May-1996
+630	Yana	Morderger	Germany	07-Mar-1997
+631	Tamara	Curovic	Serbia	31-Oct-1994
+632	Ellen	Perez	Australia	10-Oct-1995
+633	María	Irigoyen	Argentina	24-Jun-1987
+634	Erin	Routliffe	Canada	11-Apr-1995
+635	Beatrice	Gumulya	Indonesia	01-Jan-1991
+636	Yvonne	Cavalle-reimers	Spain	22-May-1992
+637	Ekaterina	Kazionova	Russia	13-Jan-1999
+638	Olga	Puchkova	Russia	27-Sep-1987
+639	Marianna	Zakarlyuk	Ukraine	22-Sep-1996
+640	Milana	Spremo	Serbia	26-Nov-1991
+641	Mai	Minokoshi	Japan	16-Apr-1992
+642	Kyra	Shroff	India	17-Oct-1992
+643	Dasha	Ivanova	United states	11-Oct-1996
+644	Petra	Januskova	Canada	03-Mar-1991
+645	Katerina	Vankova	Czech republic	30-Dec-1989
+646	Yuki	Chiang	United states	19-Aug-1995
+647	Emily	Arbuthnott	United kingdom	03-Oct-1997
+648	Kelly	Versteeg	Netherlands	18-Nov-1994
+649	Julyette	Steur	Germany	28-Jul-1995
+650	Jelena	Simic	Bosnia and herzegovina	19-Feb-1992
+651	Cristina	Adamescu	Romania	25-Oct-1995
+652	Charlotte	Robillard-millette	Canada	12-Jan-1999
+653	Renata	Voracova	Czech republic	06-Oct-1983
+654	Sang hee	Park	South korea	17-Oct-1995
+655	Ani	Mijacika	Croatia	15-Jun-1987
+656	Chanelle	Van nguyen	United states	19-Jan-1994
+657	Florencia	Molinero	Argentina	28-Nov-1988
+658	Prarthana	Thombare	India	18-Jun-1994
+659	Julie	Gervais	France	22-Jul-1991
+660	Varunya	Wongteanchai	Thailand	07-Jan-1993
+661	Angelina	Zhuravleva	Russia	20-Nov-1996
+662	Pauline	Payet	France	03-Jul-1994
+663	Bojana	Marinkovic	Serbia	30-Oct-1996
+664	Ling	Zhang	Hong kong sar china	28-Oct-1989
+665	Gioia	Barbieri	Italy	09-Jul-1991
+666	Pranjala	Yadlapalli	India	30-Mar-1999
+667	Maria jose	Luque moreno	Spain	06-Jun-1996
+668	Haruka	Kaji	Japan	25-Sep-1994
+669	Lauren	Embree	United states	10-Jan-1991
+670	Ulyana	Ayzatulina	Russia	01-Feb-1996
+671	Martina	Spigarelli	Italy	12-May-1992
+672	Shelby	Talcott	United states	14-Jan-1993
+673	Mirabelle	Njoze	United kingdom	05-Feb-1997
+674	María josé	Martínez sánchez	Spain	12-Aug-1982
+675	Ingrid	Neel	United states	16-Jun-1998
+676	Eva	Guerrero alvarez	Spain	04-Sep-1999
+677	Alba	Carrillo marin	Spain	06-Mar-1996
+678	Nudnida	Luangnam	Thailand	27-Feb-1987
+679	Claire	Liu	United states	25-May-2000
+680	Amina	Anshba	Russia	09-Sep-1999
+681	Marlies	Szupper	Austria	02-Jun-1995
+682	Sharon	Fichman	Canada	03-Dec-1990
+683	Giorgia	Marchetti	Italy	21-Jan-1995
+684	Jiahui	Chen	China	26-May-1995
+685	Daria	Lodikova	Russia	25-May-1996
+686	Emilie	Francati	Denmark	24-Jun-1997
+687	Emily	Webley-smith	United kingdom	14-Jul-1984
+688	Xenia	Knoll	Switzerland	02-Sep-1992
+689	Martina	Capurro taborda	Argentina	04-Dec-1997
+690	Nuria	Parrizas diaz	Spain	15-Jul-1991
+691	Xinyu	Jiang	China	03-Mar-1999
+692	Andreea	Rosca	Romania	20-Mar-1999
+693	Sowjanya	Bavisetti	India	11-Dec-1993
+694	Clemence	Fayol	France	01-Nov-1994
+695	Mai	Hontama	Japan	30-Aug-1999
+696	Petia	Arshinkova	Bulgaria	26-Apr-1998
+697	Camila	Giangreco campiz	Paraguay	24-Aug-1996
+698	Yukun	Zhang	China	25-Dec-1995
+699	Ani	Vangelova	Bulgaria	14-Jul-1993
+700	Naomi	Totka	Hungary	19-Oct-1995
+701	Mariana	Drazic	Croatia	08-Jan-1995
+702	Luisa	Stefani	Brazil	09-Aug-1997
+703	Chihiro	Nunome	Japan	26-Jun-1992
+704	Sadafmoh	Tolibova	Belarus	16-Jun-1996
+705	Luca	Nagymihaly	Hungary	27-Sep-1997
+706	Justyna	Jegiolka	Poland	17-Sep-1991
+707	Yixuan	Li	China	19-Apr-1997
+708	Joana	Eidukonyte	Lithuania	02-Oct-1994
+709	Kylie	Mckenzie	United states	21-Mar-1999
+710	Jessica	Failla	United states	05-Jun-1997
+711	Satsuki	Takamura	Japan	24-Sep-1999
+712	Suzy	Larkin	United kingdom	16-Jun-1992
+713	Erika	Vogelsang	Netherlands	01-Mar-1995
+714	Michaela	Gordon	United states	26-Jul-1999
+715	Kajsa	Rinaldo persson	Sweden	11-Nov-1997
+716	Arina	Folts	Uzbekistan	01-Jan-1997
+717	Fiona	Codino	France	31-Aug-1995
+718	Kaja	Juvan	Slovenia	25-Nov-2000
+719	Sofie	Oyen	Belgium	04-Feb-1992
+720	Lucia	Bronzetti	Italy	10-Dec-1998
+721	Gabriela	Talaba	Romania	23-Aug-1995
+722	Giuliana	Olmos	Mexico	04-Mar-1993
+723	Gaia	Sanesi	Italy	01-Apr-1992
+724	Miriana	Tona	Italy	09-Jan-1995
+725	Vera	Dushevina	Russia	06-Oct-1986
+726	Bojana	Jovanovski	Serbia	31-Dec-1991
+727	Sophie	Chang	United states	28-May-1997
+728	Maja	Chwalinska	Poland	11-Oct-2001
+729	Eden	Silva	United kingdom	14-Mar-1996
+730	Kaitlyn	Christian	United states	13-Jan-1992
+731	Anhzelika	Isaeva	Russia	20-Nov-2000
+732	Magali	Kempen	Belgium	30-Nov-1997
+733	Piia	Suomalainen	Finland	09-Jul-1984
+734	Julia	Jones	United states	03-Apr-1994
+735	Anastasiya	Fedoryshyn	Ukraine	29-Apr-1997
+736	Sarah beth	Grey	United kingdom	10-Aug-1995
+737	Lucrezia	Stefanini	Italy	15-May-1998
+738	Iva	Primorac	Croatia	10-Apr-1996
+739	Arabela	Fernandez rabener	Spain	20-Oct-1990
+740	Federica	Arcidiacono	Italy	14-Apr-1993
+741	Victoria	Duval	United states	30-Nov-1995
+742	Anhelina	Kalinina	Ukraine	07-Feb-1997
+743	Maia	Lumsden	United kingdom	10-Jan-1998
+744	Pernilla	Mendesova	Czech republic	06-Jun-1994
+745	Valeriya	Zeleva	Russia	20-Oct-1998
+746	Maria joao	Koehler	Portugal	08-Oct-1992
+747	Aki	Yamasoto	Japan	24-Sep-1991
+748	Angelique	Svinos	Australia	25-Jan-1996
+749	Katharina	Hering	Germany	28-Feb-1995
+750	Clothilde	De bernardi	France	16-Nov-1994
+751	Emily	Appleton	United kingdom	01-Sep-1999
+751	Barbora	Miklova	Czech republic	29-Mar-1998
+753	Alina	Silich	Russia	10-Jul-1996
+754	Mara	Schmidt	United states	22-Feb-1992
+755	Eudice	Chong	Hong kong sar china	22-Apr-1996
+756	Nina	Stadler	Switzerland	11-Oct-1995
+757	Dalila	Spiteri	Italy	24-Apr-1997
+758	Plobrung	Plipuech	Thailand	19-Nov-1997
+759	Alexa	Graham	United states	07-Jul-1998
+760	Brynn	Boren	United states	01-Aug-1991
+761	Natasha	Palha	India	17-Jan-1994
+762	Caroline	Werner	Germany	08-Apr-1996
+763	Amanda	Anisimova	United states	31-Aug-2001
+764	Ingrid	Gamarra martins	Brazil	22-Aug-1996
+765	Lena	Rueffer	Germany	23-Aug-1998
+766	Komola	Umarova	Uzbekistan	23-Oct-1999
+767	Nika	Kukharchuk	Russia	08-Feb-1987
+768	Alexa	Guarachi	Chile	17-Nov-1990
+769	Viktorija	Rajicic	Australia	07-Apr-1994
+770	Ludmilla	Samsonova	Italy	11-Nov-1998
+771	Oana	Gavrila	Romania	19-Apr-1998
+772	Ana	Savic	Croatia	09-Oct-1989
+773	Ani	Amiraghyan	Armenia	09-Oct-1993
+774	Gabriela	Horackova	Czech republic	04-Jun-1991
+775	Ainhoa	Atucha gomez	Spain	24-May-1993
+776	Jaeda	Daniel	United states	28-Jul-1999
+777	Sri	Peddi reddy	India	04-Oct-1995
+778	Elena	Bogdan	Romania	28-Mar-1992
+779	Carla	Lucero	Argentina	26-Oct-1990
+780	Barbara	Bonic	Serbia	04-Jun-1992
+780	Lisa-marie	Maetschke	Germany	19-Apr-1995
+780	Noelia	Zeballos	Bolivia	02-May-1994
+783	Eliessa	Vanlangendonck	Belgium	07-Apr-1997
+784	Dabin	Kim	South korea	02-Jan-1997
+785	Michaela	Bayerlova	Czech republic	14-Dec-1998
+786	Evgeniya	Levashova	Russia	28-May-1999
+787	Kennedy	Shaffer	United states	21-May-1997
+788	Priscilla	Heise	France	11-Jun-1990
+789	Alexandra	Grinchishina	Kazakhstan	22-Oct-1995
+790	Alexandra	Riley	United states	13-Apr-1991
+791	Catherine	Chantraine	Belgium	19-Mar-1993
+792	Federica	Prati	Italy	03-Jan-1996
+793	Anna	Klasen	Germany	15-Nov-1993
+794	Anastasia	Rodionova	Australia	12-May-1982
+795	Ziyue	Sun	China	06-Jul-1996
+796	Yuliana	Lizarazo	Colombia	23-May-1993
+797	Anette	Munozova	Sweden	01-Aug-1991
+798	Lea	Romain	France	28-Nov-1999
+799	Akilah	James	United states	29-Aug-1992
+800	Nina	Kruijer	Netherlands	23-Feb-1998
+801	Aymet	Uzcategui	Venezuela	01-Dec-1995
+802	Diana	Sumova	Czech republic	25-Sep-1994
+803	Eleni	Daniilidou	Greece	19-Sep-1982
+804	Ashley	Weinhold	United states	20-Jun-1989
+805	Emmanuelle	Salas	France	20-Apr-1998
+806	Nicole	Rottmann	Austria	28-Jun-1989
+807	Karola	Bejenaru	Romania	29-Jun-1997
+808	Karoline	Kurz	Austria	21-May-1996
+809	Lidziya	Marozava	Belarus	08-Oct-1992
+810	Nicole	Melichar	United states	29-Jul-1993
+811	Nathalia	Rossi	Brazil	28-Apr-1989
+812	Wushuang	Zheng	China	29-Nov-1998
+813	Jessica	Crivelletto	Switzerland	25-Nov-1998
+814	Marie	Temin	France	24-Jul-1992
+815	Sabastiani	Leon	Mexico	23-Mar-1992
+816	Luisa marie	Huber	Germany	22-Jun-1995
+817	Aiko	Yoshitomi	Japan	24-Sep-1993
+818	Maria	Gutierrez carrasco	Spain	15-Sep-1997
+819	Yuki	Naito	Japan	16-Feb-2001
+820	Emiliana	Arango	Colombia	28-Nov-2000
+821	Mandy	Wagemaker	Netherlands	24-Apr-1994
+822	Brianna	Morgan	United states	19-Feb-1994
+823	Chiraz	Bechri	Tunisia	23-Jul-1998
+823	Samantha	Harris	Australia	19-Dec-1995
+823	Katarina	Jokic	Serbia	19-Apr-1998
+826	Maryna	Chernyshova	Ukraine	25-Jun-1999
+827	Sofya	Golubovskaya	Russia	11-May-2000
+828	Nicole	Vaidisova	Czech republic	23-Apr-1989
+829	Angelina	Shakhraychuk	Ukraine	05-Nov-1999
+830	Alexandra	Mueller	United states	14-Feb-1988
+831	Federica	Bilardo	Italy	06-Jul-1999
+832	Natasha	Piludu	Italy	08-Jun-1995
+832	Ksenia	Ulukan	Kyrgyzstan	13-Dec-1989
+834	Anastasia	Chikalkina	Russia	18-Jan-1997
+834	Aleksandra	Vostrikova	Russia	25-Jul-1997
+836	Qiu yu	Ye	China	29-Nov-1997
+837	Lisa-maria	Moser	Austria	28-Mar-1991
+838	Vivian	Wolff	Germany	08-Oct-1998
+839	Patrycja	Polanska	Poland	18-Jul-1997
+840	Sandra	Jamrichova	Slovakia	14-Sep-1997
+841	Alexa	Glatch	United states	10-Sep-1989
+842	Rocio	De la torre-sanchez	Spain	19-Oct-1990
+843	Isabelle	Boulais	Canada	12-Apr-2000
+844	Alicja	Rosolska	Poland	01-Dec-1985
+845	Iga	Swiatek	Poland	31-May-2001
+846	Manisha	Foster	United kingdom	21-Aug-1993
+847	Rosalie	Van der hoek	Netherlands	16-Dec-1994
+848	Astra	Sharma	Australia	11-Sep-1995
+849	Qianqian	Zhao	China	27-Mar-1994
+850	Ines	Ibbou	Algeria	05-Jan-1999
+851	Naima	Karamoko	Switzerland	30-Sep-1997
+852	Michele	Zmau	Romania	22-May-1996
+853	Ivania	Martinich	Chile	25-Jul-1995
+854	Csilla	Argyelan	Hungary	11-Nov-1990
+854	Nidhi	Chilumula	India	09-Oct-1994
+854	Phillis	Vanenburg	Netherlands	11-Jan-1998
+857	Akari	Inoue	Japan	04-Aug-1988
+858	Julia	Payola	Spain	08-Jan-1998
+859	Nikki	Luttikhuis	Netherlands	28-Sep-1995
+860	Andreea	Ghitescu	Romania	10-Mar-1997
+861	Oksana	Kalashnikova	Georgia	05-Sep-1990
+862	Maria	Mateas	United states	21-Jul-1999
+863	Alexandra	Morozova	United states	24-Feb-1995
+864	Mariya	Koryttseva	Ukraine	25-May-1985
+864	Hua-chen	Lee	Chinese taipei	14-Sep-1993
+866	Sarah	Lee	United states	14-Aug-1993
+866	Bojana	Markovic	Serbia	27-Feb-1999
+868	Leonie	Kung	Switzerland	21-Oct-2000
+869	Thaisa grana	Pedretti	Brazil	15-May-1999
+870	Daria	Kruzhkova	Russia	07-May-1998
+870	Jessy	Rompies	Indonesia	14-Apr-1990
+872	Monika	Kilnarova	Czech republic	08-Oct-1999
+873	Jelena	Stojanovic	Australia	13-Apr-1997
+874	Ilze	Hattingh	South africa	22-Apr-1996
+875	Emmanuelle	Girard	France	07-Jul-1999
+875	Jessica	Ho	United states	05-Jan-1997
+877	Szabina	Szlavikovics	Hungary	05-Sep-1995
+878	Veronica	Miroshnichenko	Russia	19-Nov-1997
+879	Margaux	Bovy	Belgium	28-Sep-1997
+880	Yukina	Saigo	Japan	27-Apr-1996
+881	Yeong won	Jeong	South korea	10-Feb-1996
+882	Katharine	Fahey	United states	19-Oct-1996
+882	Yuliya	Kalabina	Russia	27-Mar-1990
+882	Sinead	Lohan	Ireland	10-Feb-1995
+885	Mihika	Yadav	India	10-Nov-1999
+886	Tatiana	Pieri	Italy	29-Mar-1999
+886	Tereza	Prochazkova	Czech republic	21-Jun-1999
+888	Andrea	Raaholt	Norway	17-Apr-1996
+889	Sofia	Luini	Argentina	11-Nov-1992
+890	Alice	Savoretti	Italy	17-Jun-1992
+891	Charlotte	Roemer	Ecuador	08-Jan-1994
+891	Keren	Shlomo	Israel	14-Jan-1988
+891	Margarita	Skryabina	Russia	13-Jan-2000
+891	Anna	Turati	Italy	17-Jun-1997
+895	Yuenu	Li	China	14-Jul-1998
+896	Rebeka	Stolmar	Hungary	26-Feb-1997
+897	Georgia	Craciun	Romania	14-Jul-1999
+898	Nagi	Hanatani	Japan	07-Mar-1995
+899	Rika	Fujiwara	Japan	19-Sep-1981
+899	Teodora	Stinga	Romania	03-Apr-1995
+901	Anna	Pribylova	Russia	18-Dec-1997
+901	Francesca	Stephenson	United kingdom	23-Aug-1993
+903	Natasha	Bredl	Austria	28-Jul-1991
+904	Francesca	Sella	Italy	23-Mar-1994
+904	Alexandra	Walters	Australia	14-Jul-1992
+906	Zoe	Hives	Australia	24-Oct-1996
+907	Marie	Leduc	Canada	24-Sep-1997
+908	Kotomi	Takahata	Japan	17-Nov-1989
+909	Yue	Yuan	China	25-Sep-1998
+910	Olga	Danilovic	Serbia	23-Jan-2001
+911	Draginja	Vukovic	Serbia	27-Apr-2000
+912	Erina	Hayashi	Japan	21-Jul-1994
+913	Kaitlin	Staines	Australia	11-Jan-2000
+914	Romy	Koelzer	Germany	22-Aug-1991
+915	Abigail	Desiatnikov	United states	22-Jan-2001
+916	Inci	Ogut	Turkey	06-Sep-1999
+917	Diana	Enache	Romania	12-Dec-1987
+918	Amy	Zhu	United states	28-Oct-1994
+919	Shuo	Feng	China	15-Jan-1998
+920	Valeriya	Yushchenko	Russia	26-Jun-1999
+921	Katerina	Kramperova	Czech republic	28-Dec-1988
+921	Marianna	Natali	Italy	20-Jun-1991
+921	Christina	Shakovets	Germany	29-Apr-1994
+924	Laura	Deigman	United kingdom	21-May-1993
+925	Tereza	Kolarova	Czech republic	20-Feb-1998
+926	Emma	Hurst	United kingdom	21-Jun-1996
+927	Mia	Eklund	Finland	30-Oct-1994
+928	Natalie	Proese	Germany	27-Sep-1990
+929	Ajla	Tomljanovic	Croatia	07-May-1993
+930	Wiktoria	Kulik	Poland	26-May-1999
+931	Gabriela	Tatarus	Romania	10-Nov-1999
+932	Katherine	Ip	Hong kong sar china	17-Sep-1995
+933	Yulia	Bryzgalova	Russia	27-Jan-1998
+934	Andrea renee	Villarreal	Mexico	24-Mar-1994
+935	Andie k	Daniell	United states	07-Jan-1997
+936	Ran	Meng	China	17-Nov-1992
+937	Kanika	Vaidya	India	27-Mar-1995
+938	Hyojung	Yea	South korea	13-Feb-1994
+939	Lauren	Herring	United states	23-Jul-1993
+940	Gabriela	Duca	Romania	22-Sep-1994
+941	Pia	Cuk	Slovenia	24-Jul-1996
+941	Valeriya	Urzhumova	Russia	06-May-1997
+943	Nozomi	Fujioka	Japan	11-Mar-1993
+943	Ushna	Suhail	Pakistan	26-Jun-1993
+945	Karolayne	Alexandre da rosa	Brazil	01-Nov-1997
+945	Patcharin	Cheapchandej	Thailand	13-Dec-1994
+947	Lusine	Avanesyan	Russia	04-Oct-1997
+947	Marina	Shamayko	Russia	03-Aug-1987
+949	Eetee	Maheta	India	12-Oct-1995
+950	Seone	Mendez	Australia	15-May-1999
+951	Verena	Hofer	Italy	02-Sep-1997
+951	Maria	Masini	Italy	28-Jan-1994
+951	Lisa	Ponomar	Germany	21-May-1997
+954	Sofia	Dmitrieva	Russia	11-Aug-1994
+955	Steffi	Distelmans	Belgium	01-Jun-1993
+955	Madeleine	Kobelt	United states	19-Mar-1992
+955	Linnea	Malmqvist	Sweden	30-May-1998
+955	Maria	Martinez martinez	Spain	01-Apr-1996
+959	Victoria	Smirnova	Belgium	30-Sep-1998
+960	Shuyue	Ma	China	29-Jun-1999
+961	Catherine	Leduc	Canada	09-Jun-1993
+962	Jin	Lee	South korea	02-Apr-1996
+963	Panna	Udvardy	Hungary	28-Sep-1998
+964	Claudia	Coppola	Italy	04-Dec-1994
+965	Anna	Slovakova	Czech republic	04-Apr-1999
+966	Valeriya	Pogrebnyak	Russia	25-Aug-1998
+967	Suzuho	Oshino	Japan	03-Aug-1996
+968	Zeel	Desai	India	18-Feb-1999
+968	Aminat	Kushkhova	Russia	29-Jul-1993
+968	Yasmine	Mansouri	France	15-May-2001
+968	Adriana	Sosnovschi	Moldova	10-Jan-1998
+972	Qianhui	Tang	China	10-Sep-2000
+973	Estrella	Cabeza candela	Spain	20-Feb-1987
+973	Xiyu	Wang	China	28-Mar-2001
+975	Petra	Uberalova	Slovakia	11-Apr-1995
+976	Angelina	Gabueva	Russia	07-Dec-1988
+976	Catherine	Harrison	United states	09-Apr-1994
+976	Yuan	Xin	China	15-Feb-1995
+979	Jennifer	Claffey	Ireland	25-Jul-1990
+980	Shivika	Burman	India	21-Oct-1989
+980	Si qi	Liu	China	07-Jan-1995
+982	Julia	Kimmelmann	Germany	12-Oct-1993
+982	Natalia	Orlova	Russia	25-Mar-1989
+984	Daniela	Farfan	Argentina	03-Mar-1997
+984	Chiara	Frapolli	Switzerland	24-Aug-1996
+984	Sara	Ottomano	Switzerland	06-Mar-1996
+984	Polona	Rebersak	Slovenia	09-Feb-1987
+984	Dan ni	Wang	China	12-Jun-1993
+989	Kassandra	Davesne	France	31-Jan-1999
+989	Verena	Meliss	Italy	21-Jul-1997
+989	Kerstin	Peckl	Austria	02-Sep-1989
+992	Elena	Bovina	Russia	10-Mar-1983
+993	Yu jin	Ahn	South korea	13-Mar-1997
+994	Suzan	Lamens	Netherlands	05-Jul-1999
+994	Tina	Tehrani	United states	31-Aug-1992
+996	Erika	Drozd pereira	Brazil	26-Apr-1997
+996	Lindsay	Lee-waters	United states	28-Jun-1977
+996	Melissa	Morales	Guatemala	04-Dec-1990
+999	Carson	Branstine	United states	09-Sep-2000
+999	Yurina	Koshino	Japan	16-May-1988
+999	Julita	Saner	Sweden	29-Apr-1999
+1002	Melissa	Ifidzhen	Nigeria	18-Jun-1998
+1002	Chompoothip	Jandakate	Thailand	03-Nov-1995
+1002	Rishika	Sunkara	India	14-May-1993
+1002	Julia	Thiem	Germany	04-Jul-1990
+1006	Ye-xin	Ma	China	10-Jun-1999
+1006	Keri	Wong	United states	25-Dec-1989
+1008	Adrijana	Lekaj	Croatia	29-Jun-1995
+1008	Constanza	Vega	Argentina	24-Sep-1995
+1010	Ester	Masuri	Israel	26-Dec-1989
+1010	Alana	Parnaby	Australia	15-Sep-1994
+1012	Nadja	Gilchrist	United states	07-Jun-1990
+1012	Katarzyna	Kubicz	Poland	25-Nov-1998
+1012	Kristina	Ostojic	Serbia	26-Jan-1995
+1015	Nora	Niedmers	Germany	10-Jan-1995
+1016	Natalie	Kallmunzerova	Czech republic	11-Jun-1997
+1016	Morgane	Michiels	Belgium	02-Feb-1997
+1016	Guillermina	Naya	Argentina	27-Sep-1996
+1016	Anastasia	Nefedova	United states	11-Jan-1999
+1020	Eleonore	Barrere	France	17-Jun-1996
+1020	Sai	Chamarthi	India	17-Jan-1995
+1020	Sasa	Klanecek	Slovenia	08-Apr-1998
+1020	Stephanie	Nemtsova	United states	15-Apr-1998
+1020	Laetitia	Sarrazin	France	08-Mar-1993
+1025	Ramu	Ueda	Japan	18-Mar-1998
+1026	Susan	Bandecchi	Switzerland	01-Jul-1998
+1026	Mathilde	Devits	Belgium	14-Apr-1997
+1026	Laura	Heinrichs	Germany	02-Dec-1990
+1026	Linda	Prenkovic	Germany	23-Dec-1992
+1030	Alessandra	Gisonna	Italy	24-Aug-1996
+1030	Masa	Jovanovic	Australia	23-Nov-1994
+1032	I-hsuan	Cho	Chinese taipei	21-Feb-2000
+1033	Anastasia	Detiuc	Moldova	14-Dec-1998
+1033	Eleonora	Molinaro	Luxembourg	04-Sep-2000
+1035	Kwan yau	Ng	Hong kong sar china	19-Feb-1997
+1036	Kei	Kato	Japan	06-Sep-1997
+1036	Ayumi	Koshiishi	Japan	28-Jul-2000
+1036	Nermeen	Shawky	Egypt	23-Feb-1999
+1039	Karolina	Cechova	Czech republic	15-Jan-1992
+1039	Yujia	Wang	China	07-Jan-1994
+1041	Min-hwa	Yu	South korea	25-Mar-1988
+1041	Guzal	Yusupova	Uzbekistan	19-Dec-1997
+1043	Ida	Jarlskog	Sweden	20-Jun-1998
+1043	Laura	Svatikova	Slovakia	29-Apr-1994
+1043	Eva	Zagorac	Slovenia	15-Nov-1995
+1046	Ksenia	Kuznetsova	Russia	05-Feb-1998
+1046	Beatrice	Lombardo	Italy	15-Feb-1996
+1046	Ariadna	Marti riembau	Spain	28-Jun-1996
+1049	Dalila	Said	Egypt	26-Jul-2000
+1050	Kimika	Sakata	Japan	13-May-1999
+1051	Lamis	Alhussein abdel aziz	Egypt	24-Apr-1998
+1051	Oleksandra	Andrieieva	Ukraine	03-Nov-2000
+1051	Valeria	Gorlats	Estonia	31-Mar-1998
+1051	Caroline	Ilowska	Austria	01-Aug-1998
+1051	Yulia	Kulikova	Russia	11-Sep-1989
+1051	Sabina	Machalova	Czech republic	10-Dec-1997
+1051	Stephanie	Petit	Argentina	25-Aug-1996
+1051	Anna	Procacci	Italy	26-Feb-1997
+1059	Sharrmadaa	Baluu	India	09-Aug-1993
+1059	Michaela	Boev	Belgium	04-Jul-1991
+1059	Ioana	Ivan	Romania	17-Apr-1983
+1059	Anna	Makhorkina	Russia	30-Jun-1997
+1059	Yuqi	Sheng	China	03-Jan-1996
+1059	Lea	Tholey	France	03-Sep-1995
+1059	Andrea	Weedon	Guatemala	18-Feb-1989
+1066	Veronica	Napolitano	Italy	20-Mar-1996
+1066	Anastasia	Smirnova	Belgium	30-Sep-1998
+1068	Jawairiah	Noordin	Malaysia	08-Oct-1990
+1069	Joanna	Carswell	New zealand	08-Jul-1988
+1070	Ronke	Akingbade	Nigeria	28-Jan-1988
+1070	Yuliya	Hatouka	Belarus	24-Apr-2000
+1070	Polina	Merenkova	Uzbekistan	11-Nov-1995
+1070	Mihoki	Miyahara	Japan	17-May-1995
+1074	Madrie	Le roux	South africa	19-Apr-1995
+1075	Yijia	Shao	China	09-Jan-1997
+1076	Miriam	Civera lima	Spain	18-Dec-1995
+1076	Emily	Seibold	Germany	01-Jan-2000
+1076	Ana	Shanidze	Georgia	02-Jun-2001
+1076	Nazari	Urbina	Mexico	12-Jun-1989
+1080	Nadiya	Kolb	Ukraine	19-Jan-1993
+1081	Megan	Mccray	United states	11-Jul-1995
+1081	Karolina	Novotna	Czech republic	22-Dec-1997
+1083	Amandine	Cazeaux	France	25-Feb-1989
+1083	Marta	Garcia gausi	Spain	09-Mar-1997
+1083	Lauryn	John-baptiste	United kingdom	26-Jul-1999
+1083	Hanna	Landener	Germany	03-Apr-1994
+1083	Tereza	Malikova	Czech republic	13-Jul-1991
+1083	Laura	Sainsbury	United kingdom	07-Oct-1996
+1083	Tijana	Spasojevic	Serbia	14-Jan-1999
+1083	Natalia	Vajdova	Slovakia	26-Apr-1995
+1091	Vasilisa	Aponasenko	Russia	22-Oct-1996
+1091	Mathilde	Armitano	France	04-Jun-1997
+1091	Dominique	Karregat	Netherlands	29-Sep-1995
+1091	Valeria	Nikolaev	Israel	12-Feb-1997
+1091	Helen	Ploskina	Ukraine	20-Apr-1997
+1091	Ksenija	Sharifova	Russia	01-May-1996
+1097	Jil nora	Engelmann	Germany	05-Nov-1993
+1097	Camelia	Hristea	Romania	03-Feb-1991
+1097	Kaylah	Mcphee	Australia	04-Feb-1998
+1097	Alexa	Pirok	Hungary	01-Oct-1996
+1097	Diana	Shevchenko	Russia	02-Feb-1995
+1097	Iana	Tishchenko	Moldova	24-Apr-1996
+1103	Ioana	Minca	Romania	27-Sep-1998
+1104	Jade	Lewis	New zealand	18-Dec-1998
+1105	Schena	Benamar	France	18-Jan-1999
+1105	Flavia	Guimaraes bueno	Brazil	13-May-1992
+1105	Yanni	Liu	China	11-Jun-1999
+1105	Olga	Parres azcoitia	Spain	26-Mar-1993
+1109	Malene	Helgo	Norway	26-Aug-1999
+1109	Lena-marie	Hofmann	Germany	03-Feb-1991
+1109	Mitsumi	Kawasaki	Japan	09-Sep-1983
+1109	Jelena	Lukic	Serbia	24-Feb-1997
+1109	Brandy	Mina	France	24-Jul-1994
+1109	Manon	Peral	France	24-Feb-1994
+1115	Karolina	Stuchla	Czech republic	24-Feb-1994
+1116	Gabriella	Da silva fick	Australia	23-Aug-2000
+1116	Michaela	Haet	Australia	12-Feb-1999
+1116	Haine	Ogata	Japan	29-Aug-1993
+1119	Alicia	Barnett	United kingdom	18-Oct-1993
+1119	Astrid	Brune olsen	Norway	23-Jun-1999
+1119	Quinn	Gleason	United states	10-Nov-1994
+1119	Andrea	Koch-benvenuto	Chile	26-Apr-1985
+1119	Ofri	Lankri	Israel	06-Jul-1991
+1119	Lucia	Marzal martinez	Spain	03-Feb-2000
+1125	Shiran	Arol wiegand	Israel	23-Jan-1998
+1125	Sari	Baba	Japan	10-Jun-1994
+1125	Anna	Brogan	United kingdom	04-Aug-1997
+1125	Steffi	Carruthers	Samoa	24-May-1993
+1125	Cindy	Castille	France	28-Jun-1998
+1125	Darya	Chernetsova	Belarus	13-Nov-1994
+1125	Natalie	Cvackova	Czech republic	18-Jan-1996
+1125	Jazzamay	Drew	United kingdom	19-Jul-1994
+1125	Kelia	Le bihan	France	07-Jan-1999
+1125	Emma	Lene	France	15-Jul-1999
+1125	Tamachan	Momkoonthod	Thailand	14-Apr-1997
+1125	Mallaurie	Noel	France	27-Nov-1994
+1125	Ipek	Oz	Turkey	08-Jul-1999
+1125	Andreea	Prisacariu	Romania	09-Feb-2000
+1125	Zoe gwen	Scandalis	United states	21-Sep-1993
+1125	Carla	Touly	France	30-Aug-1996
+1125	Veronika	Vlkovska	Czech republic	06-Sep-1997
+1142	Tea	Faber	Croatia	27-Jun-1989
+1142	Anna	Gabric	Germany	25-May-1998
+1142	Albina	Khabibulina	Uzbekistan	11-May-1992
+1142	Rio	Kitagawa	Japan	15-Sep-1993
+1142	Rebeca	Pereira	Brazil	23-Mar-1993
+1142	Shweta chandra	Rana	India	09-Aug-1993
+1142	Julie	Razafindranaly	France	14-Mar-1997
+1142	Rafaela	Rodrigues dos santos	Brazil	02-Apr-1998
+1142	Almudena	Sanz-llaneza fernandez	Spain	03-Mar-1991
+1142	Arina	Taluenko	Kazakhstan	10-Jan-1999
+1152	Shahar	Peer	Israel	01-May-1987
+1153	Paula	Arias manjon	Spain	26-Feb-2000
+1153	Laura	Gulbe	Latvia	27-Feb-1995
+1153	Sina	Haas	Germany	21-Sep-1992
+1153	Polina	Novikova	Russia	16-Feb-1998
+1153	Giulia	Pairone	Italy	21-Jan-1996
+1158	Shir	Azran	Israel	29-Apr-1998
+1158	Natalia	Belova	Russia	07-Sep-1997
+1158	Natsumi	Chimura	Japan	20-Jul-1995
+1158	Dewi	Dijkman	Netherlands	04-Sep-1998
+1158	Claudia	Franze	Italy	24-May-1990
+1158	Alicia	Herrero linana	Spain	29-Dec-1998
+1158	Francesca	Jones	United kingdom	19-Sep-2000
+1158	Anda	Karanusic	Croatia	02-Aug-2000
+1158	Ines	Mesquita	Portugal	11-May-1998
+1158	Lidia	Moreno arias	Spain	03-Feb-1997
+1158	Elina	Nepliy	Russia	23-Oct-1997
+1158	Maria paulina	Perez garcia	Colombia	10-Jan-1996
+1158	Miranda	Ramirez	United states	07-Mar-1999
+1158	Nika	Shytkouskaya	Belarus	02-Feb-1999
+1158	Eva	Siska	United states	02-Nov-1996
+1173	Cemre	Anil	Turkey	27-Oct-1993
+1173	Alexandra	Bozovic	Australia	15-Feb-1999
+1173	Claudia	Cianci	Portugal	07-Jun-1996
+1173	Daniela	Ciobanu	Moldova	09-Mar-1995
+1173	Nina	Kolar	Slovenia	16-Sep-1999
+1173	Jasmin	Ladurner	Italy	14-Jun-1991
+1173	Guiomar	Maristany zuleta de reales	Spain	19-Feb-1999
+1173	Selin	Ovunc	Turkey	05-Jan-2001
+1173	Kristina n	Smith	United states	25-Jan-1991
+1173	Magdalena	Stoilkovska	Macedonia	12-Apr-1996
+1173	Gabriela	Van de graaf	Netherlands	07-Jul-1994
+1173	Elina	Vikhryanova	Russia	10-Dec-1996
+1173	Maria	Zotova	Russia	02-Jun-1996
+1186	Andreja	Klepac	Slovenia	13-Mar-1986
+1187	Heidi	El tabakh	Canada	25-Sep-1986
+1188	Naoko	Eto	Japan	17-Dec-1984
+1189	Anastasia	Bukhanko	Russia	06-Jun-1990
+1190	Madison	Bourguignon	United states	19-Sep-1997
+1190	Noelia	Bouzo zanotti	Spain	06-Sep-1999
+1190	Alessia	Dario	Italy	03-Apr-1998
+1190	Yanina	Darishina	Russia	23-Oct-1993
+1190	Federica	Di sarra	Italy	16-May-1990
+1190	Sarah	Finck	France	02-Sep-1995
+1190	Weronika	Forys	Poland	25-Dec-1998
+1190	Lina	Glushko	Israel	12-Jan-2000
+1190	Paige mary	Hourigan	New zealand	03-Feb-1997
+1190	Iulia	Ivascu	Romania	06-Feb-1998
+1190	Livia	Kraus	Austria	11-Nov-1998
+1190	Lenka	Kuncikova	Czech republic	29-Jul-1995
+1190	Nonna	Kurginyan	Russia	16-Nov-1997
+1190	Varvara	Kuznetsova	Russia	05-Dec-1992
+1190	Kristina	Miletic	Serbia	01-Jan-1999
+1190	Yuriko	Miyazaki	Japan	11-Nov-1995
+1190	Yvonne	Neuwirth	Austria	04-Aug-1992
+1190	Olivia	Nicholls	United kingdom	26-Oct-1994
+1190	Natalie	Novotna	Czech republic	12-Dec-1996
+1190	Deria	Nur haliza	Indonesia	08-Jun-1997
+1190	Alessia	Piran	Italy	14-May-1992
+1190	Oleksandra	Piskun	Ukraine	05-Mar-1992
+1190	Stefania	Rogozinska dzik	Poland	07-Jul-2001
+1190	Vera	Sakalouskaya	Belarus	19-Mar-1997
+1190	Daria	Solovyeva	Russia	28-May-2000
+1190	Liniques	Theron	Namibia	04-Jan-1995
+1190	Nikola	Tomanova	Czech republic	01-Mar-1996
+1190	Anna	Ukolova	Russia	25-Mar-1999
+1190	Daniela	Vukovic	Switzerland	03-Dec-1998
+1190	Simona	Waltert	Switzerland	13-Dec-2000
+1190	Yidi	Yang	China	21-Dec-1999
+1221	Marina	Bassols ribera	Spain	13-Dec-1999
+1221	Siqi	Cao	China	17-Jan-1999
+1221	Eden	D'oliveira	South africa	07-Feb-1991
+1221	Emma	Ek	Sweden	20-Aug-1996
+1221	Mayar	Eltony	Egypt	26-Oct-1997
+1221	Elaine	Genovese	Malta	11-Jan-1991
+1221	Claudia	Hoste ferrer	Spain	12-Nov-1998
+1221	Elizabeth	James	Australia	27-Apr-1994
+1221	Shakhnoza	Khatamova	Uzbekistan	06-Dec-1999
+1221	Sung hee	Kim	South korea	27-Apr-1994
+1221	Kristina	Kislyak	Russia	17-Apr-1999
+1221	Katya	Malikova	Ukraine	04-Jul-1994
+1221	Nicole	Nadel	Israel	12-Jun-2000
+1221	Barbara	Oliveira	Brazil	24-Jun-1988
+1221	Sandra	Ortevall	Sweden	09-Apr-1998
+1221	Sally	Peers	Australia	01-Jun-1991
+1221	Alexandra	Pisareva	Ukraine	23-Mar-2000
+1221	Ana	Roman dominguez	Spain	10-Jan-1997
+1221	Sarvinoz	Saidhujaeva	Uzbekistan	29-Oct-1997
+1221	Anastasiya	Saitova	Russia	16-Feb-1995
+1221	Sabina	Shaydullina	Russia	07-Feb-1996
+1221	Maya	Tahan	Israel	09-Jan-1999
+1221	Karin	Terami	Japan	10-Oct-1994
+1221	Alina	Wessel	Germany	25-Nov-1990
+1221	Anastasiya	Yakimova	Belarus	01-Nov-1986
+1246	Ayumi	Miyamoto	Japan	18-Dec-2000
+1246	Maria camila	Osorio serrano	Colombia	22-Dec-2001
+1246	Laura	Rico garcia	Colombia	07-May-2000
+1246	Julia	Rosenqvist	Sweden	24-Mar-1998
+1250	Minami	Akiyama	Japan	30-Apr-1995
+1250	Brooke	Austin	United states	12-Feb-1996
+1250	Valentine	Bacher	France	15-Jun-1999
+1250	Victoria	Beccio	Argentina	15-Nov-1997
+1250	Aleksandra	Buczynska	Poland	07-Oct-1997
+1250	Siyu	Chen	China	02-Mar-1995
+1250	Lauren	Chypyha	Canada	07-Jul-1994
+1250	Mariana	Correa	Ecuador	04-Nov-1984
+1250	Alexia	Coutino castillo	Mexico	12-Aug-1998
+1250	Dominique	Covington	United kingdom	18-Feb-1995
+1250	Paulina	Czarnik	Poland	15-Jan-1994
+1250	Beatriz	Flores	Mexico	01-Nov-1991
+1250	En-pei	Huang	Chinese taipei	02-Jan-1998
+1250	Viktoriia	Kalinina	Russia	05-Jan-1999
+1250	Seo-kyung	Kang	South korea	29-Jan-1989
+1250	Ina	Kaufinger	Germany	30-Oct-1993
+1250	Aneta	Kladivova	Czech republic	23-May-2000
+1250	Ekaterina	Klyueva	Kazakhstan	02-Jun-1996
+1250	Boba	Kotlica	Serbia	16-Feb-1999
+1250	Olena	Kyrpot	Ukraine	04-Apr-1994
+1250	Sara	Lanca	Portugal	02-Mar-1997
+1250	Grace	Leake	United states	11-Dec-1989
+1250	Sean	Lodzki	Israel	30-Dec-1998
+1250	Sara	Marcionni	Italy	29-Nov-1989
+1250	Anne-marie	Medcalf	Australia	20-Feb-1998
+1250	Amrita	Mukherjee	India	05-Aug-1994
+1250	Viktoryia	Mun	Belarus	14-Dec-1994
+1250	Jule	Niemeier	Germany	12-Aug-1999
+1250	Daria	Orichkevitch	Ukraine	02-Aug-1999
+1250	Ekaterina	Ovcharenko	Russia	31-Dec-2000
+1250	Cecilia	Pattacini	Italy	12-Jun-1996
+1250	Meritxell	Perera ros	Spain	14-Oct-1998
+1250	Marcelina	Podlinska	Poland	27-May-1999
+1250	Nataliya	Pogribnyak	Ukraine	10-Jul-1998
+1250	Jiatian	Qi	China	28-Feb-1999
+1250	Valerie	Quiceno	Colombia	22-Nov-1997
+1250	Angelica	Raggi	Italy	14-Nov-1998
+1250	Eden	Richardson	United kingdom	03-Sep-1998
+1250	Lisa-marie	Rioux	Japan	01-May-1997
+1250	Eva	Rutarova	Czech republic	21-Jul-1995
+1250	Cristina	Sanchez-quintanar	Spain	24-Mar-1989
+1250	Karine	Sarkisova	Russia	07-Jun-1998
+1250	Nikola	Schweinerova	Czech republic	25-May-1995
+1250	Darya	Shulzhanok	Belarus	22-Nov-1993
+1250	Denise-antonela	Stoica	Romania	10-Mar-2000
+1250	Veronika	Stotyka	Ukraine	31-Oct-1995
+1250	You-na	Sul	South korea	14-Mar-1993
+1250	Chihiro	Takayama	Japan	10-Feb-1991
+1250	Ella	Taylor	United kingdom	22-Jun-1995
+1250	Giorgia	Testa	Italy	13-Jul-1998
+1250	Tamara	Tomic	Serbia	13-Mar-1997
+1250	Julie	Tringa	France	07-Mar-1992
+1250	Camila	Tumosa	Argentina	24-Oct-1997
+1250	Malin	Ulvefeldt	Sweden	27-Feb-1994
+1250	Vanessa	Wong	Canada	10-Jan-1999
+1250	Ho ching	Wu	Hong kong sar china	30-Aug-1991
+1250	Michela	Xibilia	Italy	17-Oct-1998
+1250	Shangqing	Yang	China	22-Aug-1995
+1250	Yuanyi	Yu	China	01-Jan-1995
